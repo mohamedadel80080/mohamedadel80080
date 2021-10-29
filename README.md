@@ -36,8 +36,8 @@ The nature of my current work with my company team is to develop a system that h
         public function linkedIn() {
              return "https://www.linkedin.com/in/mohamed-adel-720040163/";
         }
-    private function email() {
-        return "mohamedadel80080@gmail.com"
+        private function email() {
+             return "mohamedadel80080@gmail.com"
         }
 
     }
