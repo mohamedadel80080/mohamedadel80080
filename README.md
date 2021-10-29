@@ -1,6 +1,6 @@
 ## Mohamed Adel
 
-## <img width="45" alt="about" src="https://cdn-icons.flaticon.com/png/512/5349/premium/5349022.png?token=exp=1635493303~hmac=f0020be217ca624ca3d46a01baa3ce9b"> More about me
+## More about me
 
 
 I'm Dav
