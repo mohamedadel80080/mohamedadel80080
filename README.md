@@ -4,15 +4,8 @@
 ## More about me
 
 
-I'm Dav
-SAP Functional Consultant
-Hey developers 👋
-Brief about me, I am a functional consultant/Fullstack developer, I have 5 years of experience working on a variety of projects.
-I have great ambition to further develop my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
-I have knowledge of OOP, MVVM, and MVC principles to maintain user security and performance, and develop clean code with teamwork.
-
-The nature of my current work with my company team is to develop a system that helps those who want to learn programming learn it easily. I am happy that I am doing a job that will help everyone in developing their work environment and moving the software industry in another cloud ... Thank you for your interest and reading my profile ... If you want to talk to me For something as much as I can do for you I'll be happy about it....good day/night
-
+I was born and raised in Egypt. I have worked in Europe and several Arab countries, with 7 years of experience in building, managing, and developing products. like I worked with OutSystems in the software development field using the low-code methodology and building Js Library and I also worked with Orange in the education sector . 
+I have more than 7 years of experience in digital Solutions. I excel at understanding the ideas and needs of companies and sectors and translating them into digital products effectively.
 
  ```kotlin
     
