@@ -18,7 +18,7 @@ I have more than 9 years of experience in digital Solutions. I excel at understa
         }
 
          public function myPreofession(){
-            return "Web Developer / SAP Functional Consultant";
+            return "Tech Lead / Staff Engingger";
 
         }
 
