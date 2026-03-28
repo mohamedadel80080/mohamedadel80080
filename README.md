@@ -20,7 +20,7 @@ I have more than 9 years of experience in digital Solutions. I excel at understa
 
  ##  Hire me from all over the world
 <div align="center">
- <a href="https://www.freelancer.com/u/reconnect196"><img alt="Twitter" src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"></a>
+ <a href="https://www.upwork.com/freelancers/~016df0b03b357526ed?mp_source=share"><img alt="Twitter" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"></a>
 
 
 
