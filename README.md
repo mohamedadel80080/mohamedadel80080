@@ -7,37 +7,8 @@
 I was born and raised in Egypt. I have worked in Europe and several Arab countries, with 9 years of experience in building, managing, and developing products. like I worked with OutSystems in the software development field using the low-code methodology and building Js Library and I also worked with Orange in the education sector . 
 I have more than 9 years of experience in digital Solutions. I excel at understanding the ideas and needs of companies and sectors and translating them into digital products effectively.
 
- ```kotlin
-    
-    
-    //* Welcome To My Website *//
 
-    class BioInfo{
-        public function myName() {
-            return "Mohamed Adel";
-        }
 
-         public function myPreofession(){
-            return "Distinguished Engineer / CTO (Chief Technology Officer (CTO))";
-
-        }
-
-    }
-
-    //* contact information *//
-
-    class ContactInfo extends BioInfo {
-        public function linkedIn() {
-             return "https://www.linkedin.com/in/mohamed-adel-920040163/";
-        }
-        private function email() {
-             return "mohamedadel80080@gmail.com"
-        }
-
-    }
-
-   }
-```
 
 ##  Contacts Me
 <div align="center">
